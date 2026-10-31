@@ -1,0 +1,5 @@
+opencv-python
+pyserial
+ultralytics
+pygrabber   # optional: find the camera by name on Windows
+comtypes    # optional: used with pygrabber
