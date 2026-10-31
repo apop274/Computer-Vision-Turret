@@ -94,8 +94,3 @@ python tracker.py
 ```
 Set `PORT` (e.g. `COM3`) at the top of `tracker.py`. On first run the YOLO weights download automatically, and the program asks you to confirm which direction is counter-clockwise. Click the video window, then use **a / d** to nudge, **c** to re-center and **q** to quit.
 
-## Roadmap
-
-- [ ] Closed-loop motor control using the AS5600 encoder
-- [ ] Tilt axis (bracket prototyped)
-- [ ] Wider pan range with a slip ring or better cable routing
