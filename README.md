@@ -96,7 +96,6 @@ Set `PORT` (e.g. `COM3`) at the top of `tracker.py`. On first run the YOLO weigh
 
 ## Roadmap
 
-- [ ] Add the radar: wide-angle detection that cues the camera toward a target before it's in frame
 - [ ] Closed-loop motor control using the AS5600 encoder
 - [ ] Tilt axis (bracket prototyped)
 - [ ] Wider pan range with a slip ring or better cable routing
