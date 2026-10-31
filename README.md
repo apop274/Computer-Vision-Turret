@@ -1,4 +1,4 @@
-# Radar Module — Person-Tracking Camera Turret
+# Person-Tracking Camera Turret
 
 A desktop turret that finds a person in its camera feed and swings to keep them centered. A PC runs YOLO person detection, and an ESP32 drives a brushless gimbal motor with smooth, rate-limited motion. The enclosure and mounts are custom designed in SolidWorks and 3D printed.
 
